@@ -32,12 +32,14 @@ margin-right: 10px;
 
 .country-info {
   font-size: 20px;
-  padding: 20px;
+  padding: 30px;
 }
+
 .country-info-box {
   display: flex;
   align-items: center;
 }
+
 .country-info-box img {
   margin-right: 10px;
 }
